@@ -75,12 +75,12 @@ client_scripts {
 	'/UTIL/cl_*.lua',
 	'/UI/cl_*.lua',
 	'/PLUGINS/cl_plugins.lua',
-	'/PLUGINS/**/SETTINGS.lua',
-	'/PLUGINS/**/cl_*.lua',
+	-- '/PLUGINS/**/SETTINGS.lua',
+	-- '/PLUGINS/**/cl_*.lua',
 }
 
 server_script {
 	'/UTIL/sv_lvc.lua',
-	'/PLUGINS/**/sv_*.lua'
+	-- '/PLUGINS/**/sv_*.lua'
 }
 ------------------------------
